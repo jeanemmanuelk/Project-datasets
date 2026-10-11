@@ -1,7 +1,7 @@
-# clean-project-datasets
+# Project datasets
 
-these are the differemt datasets that I used for my projects.
-the clean datasets are cleaned using microsoft excel and/or SQl
-clean datasets are found under the clean folder
-you can use the raw data as well and clean it to your linking
-so feel free to use them for your own projects
+Datasets I used in my data projects.
+
+- Files ending in `_RAW` are the original, uncleaned data.
+- The `clean/` folder holds cleaned versions (currently the Adidas US sales data), cleaned with Excel and/or SQL.
+- Check each dataset's original source and license before reusing it in your own work.
